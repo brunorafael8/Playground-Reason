@@ -1,0 +1,21 @@
+# ninja log v5
+0	581	543722278	src/index.mlast	83a6a831739fb4f7
+581	1222	543722279	src/index.mlast.d	a054a331ccd8ded2
+23	249	543722279	src/index.cmj	98c5807a45a7db32
+23	249	543722279	D:/Programacao/playground/ReasonMl/reason-parcel/src/index.bs.js	98c5807a45a7db32
+23	249	543722279	src/index.cmi	98c5807a45a7db32
+97	718	543733163	src/Greeting.mlast	e56a7f4fd8ef8358
+0	762	543733164	src/index.mlast	1380db94605633de
+719	862	543733164	src/Greeting.mlast.d	92ab72c45b525fea
+762	937	543733164	src/index.mlast.d	a054a331ccd8ded2
+1	253	543733164	src/Greeting.cmj	302db44f8876a12b
+1	253	543733164	D:/Programacao/playground/ReasonMl/reason-parcel/src/Greeting.bs.js	302db44f8876a12b
+1	253	543733164	src/Greeting.cmi	302db44f8876a12b
+253	448	543733164	src/index.cmj	29852c0161789aea
+253	448	543733164	D:/Programacao/playground/ReasonMl/reason-parcel/src/index.bs.js	29852c0161789aea
+253	448	543733164	src/index.cmi	29852c0161789aea
+0	1435	543733180	src/index.mlast	1380db94605633de
+1436	1594	543733181	src/index.mlast.d	a054a331ccd8ded2
+1	531	543733181	src/index.cmj	29852c0161789aea
+1	531	543733181	D:/Programacao/playground/ReasonMl/reason-parcel/src/index.bs.js	29852c0161789aea
+1	531	543733181	src/index.cmi	29852c0161789aea
